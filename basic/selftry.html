@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>self</title>
+</head>
+<body>	
+
+	
+		<button type="button" onclick="showMore()" >click to show</button>
+	
+		<div id="result"></div>
+
+	<script>
+		
+		function showMore(){
+			var xm = new XMLHttpRequest();
+			xm.onreadystatechange = function(){
+				if(this.readyState == 4 && this.status == 200) {
+					document.getElementById("result").innerHTML = this.responseText;
+				}
+			}
+
+			xm.open("GET", "text.txt", true);
+ 			xm.send();
+		}
+
+	</script>
+
+</body>
+</html>

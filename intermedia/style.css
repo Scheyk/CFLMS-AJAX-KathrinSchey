@@ -1,0 +1,48 @@
+body {
+	background-image: url("https://cdn.pixabay.com/photo/2020/05/01/14/15/music-sheet-5117328__340.jpg");
+	background-size: cover;
+}
+
+table, th, td {
+	width: 50em;	
+	text-align: center;
+	border: 1px solid black;   	
+   	border-collapse: collapse;
+}
+
+th {
+	font-size: 2em;
+	color: #0F0323;
+}
+
+.title {
+	color: #0004C7;
+}
+
+.artist {
+	color: white;
+}
+
+.country {
+	color: green;
+}
+
+.genre {
+	color: black;
+}
+
+.year {
+	color: blue;
+}
+
+.back {
+	width: 50em;
+	margin:  auto;
+	/* background-image: url("https://cdn.pixabay.com/photo/2016/11/09/23/16/music-1813100__340.png");
+	background-size: cover; */
+	background-color: rgb(153,148,22);
+	/* background-color: rgba(153,148,22,0.5); */
+	font-weight: bold;
+	color: white;
+	/* text-shadow: 1px 1px 1px black; */
+}

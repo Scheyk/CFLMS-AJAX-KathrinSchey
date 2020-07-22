@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+
+	<playlist>
+		<song Id = "title_1">
+			<title>Kick it!</title>
+			<artist>Peaches and Iggy Pop</artist>
+			<country>USA</country>
+			<genre>Dance/Electronic</genre>
+			<year>2003</year>
+		</song>
+		<song Id = "title_2">
+			<title>Dope Hat</title>
+			<artist>Marilyn Manson</artist>
+			<country>USA</country>
+			<genre>Rock</genre>
+			<year>2012</year>
+		</song>
+		<song Id = "title_3">
+			<title>Smells Like Teen Spirit</title>
+			<artist>Nirvana</artist>
+			<country>USA</country>
+			<genre>Alternative/Indie, Rock</genre>
+			<year>1991</year>
+		</song>
+		<song Id = "title_4">
+			<title>IN SYNC Delta Lady</title>
+			<artist>Tom jones and Joe Cocker</artist>
+			<country>USA</country>
+			<genre>Rock</genre>
+			<year>1970</year>
+		</song>
+		<song Id = "title_5">
+			<title>She´s my Heroin</title>
+			<artist>Skunk Anansie</artist>
+			<country>USA</country>
+			<genre>Rock</genre>
+			<year>1996</year>
+		</song>
+		<song Id = "title_6">
+			<title>A Natural Woman</title>
+			<artist>Aretha Franklin</artist>
+			<country>USA</country>
+			<genre>Klassischer Soul</genre>
+			<year>1967</year>
+		</song>
+		<song Id = "title_7">
+			<title>Son of a preacher man</title>
+			<artist>Dusty Springfield</artist>
+			<country>USA</country>
+			<genre>Pop</genre>
+			<year>1969</year>
+		</song>
+		<song Id = "title_8">
+			<title>Riders on the Storm</title>
+			<artist>The Doors</artist>
+			<country>USA</country>
+			<genre>Classic Rock</genre>
+			<year>1971</year>
+		</song>
+		<song Id = "title_9">
+			<title>Black Betty</title>
+			<artist>Ram Jam</artist>
+			<country>USA</country>
+			<genre>Rock</genre>
+			<year>1977</year>
+		</song>
+		<song Id = "title_10">
+			<title>Devil Woman</title>
+			<artist>Bruce Willis</artist>
+			<country>USA</country>
+			<genre>Classic Rock</genre>
+			<year>2015</year>
+		</song>
+		<song Id = "title_11">
+			<title>Under the Boardwalk</title>
+			<artist>The Temptations with Bruce Willis</artist>
+			<country>USA</country>
+			<genre>Soul</genre>
+			<year>1987</year>
+		</song>
+		<song Id = "title_12">
+			<title>Groove is in the Heart</title>
+			<artist>Deee-Lite</artist>
+			<country>USA</country>
+			<genre>Dance-Pop, Pop</genre>
+			<year>1990</year>
+		</song>
+		<song Id = "title_13">
+			<title>Pump Up The Jam</title>
+			<artist>Technotronic</artist>
+			<country>USA</country>
+			<genre>Dance-Pop</genre>
+			<year>1989</year>
+		</song>
+		<song Id = "title_14">
+			<title>It´s Tricky</title>
+			<artist>Run-D.M.C.</artist>
+			<country>USA</country>
+			<genre>Pop, Hip-Hop/Rap</genre>
+			<year>1986</year>
+		</song>
+		<song Id = "title_15">
+			<title>Shoop</title>
+			<artist>Salt ’n’ Pepa</artist>
+			<country>USA</country>
+			<genre>Soul</genre>
+			<year>1993</year>
+		</song>
+		<song Id = "title_16">
+			<title>Ramble Tamble</title>
+			<artist>CCR (Creedence Clearwater Revival)</artist>
+			<country>USA</country>
+			<genre>Rock</genre>
+			<year>1970</year>
+		</song>
+		<song Id="title_17">
+			<title>Bitter Sweet Symphony</title>
+			<artist>The Verve</artist>
+			<country>Britannien</country>
+			<genre>Britpop</genre>
+			<year>1997</year>
+		</song>
+		<song Id = "title_18">
+			<title>Live With Me</title>
+			<artist>Massive Attack</artist>
+			<country>USA</country>
+			<genre>Downtempo</genre>
+			<year>2006</year>
+		</song>
+		<song Id = "title_19">
+			<title>Black Coffee</title>
+			<artist>Peggy Lee</artist>
+			<country>USA</country>
+			<genre>Pop</genre>
+			<year>1960</year>
+		</song>
+		<song Id = "title_20">
+			<title>Puppe</title>
+			<artist>Rammstein</artist>
+			<country>Deutschland</country>
+			<genre>Rock</genre>
+			<year>2019</year>
+		</song>
+	</playlist>
+
